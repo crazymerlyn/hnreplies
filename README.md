@@ -1,0 +1,1 @@
+- [The value of time](https://news.ycombinator.com/item?id=18479118)
