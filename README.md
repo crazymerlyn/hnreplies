@@ -1,3 +1,4 @@
 - [The value of time](https://news.ycombinator.com/item?id=18479118)
 - [The horrors of working on a large codebase](https://news.ycombinator.com/item?id=18442941)
 - [How much do you hate JavaScript?](https://news.ycombinator.com/item?id=11447851)
+- [Debugging multiple SSD failures](https://news.ycombinator.com/item?id=32031243)
