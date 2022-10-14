@@ -2,3 +2,4 @@
 - [The horrors of working on a large codebase](https://news.ycombinator.com/item?id=18442941)
 - [How much do you hate JavaScript?](https://news.ycombinator.com/item?id=11447851)
 - [Debugging multiple SSD failures](https://news.ycombinator.com/item?id=32031243)
+- [Did you win the putnam?](https://news.ycombinator.com/item?id=35079)
